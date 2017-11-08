@@ -1,2 +1,2 @@
 # gitskills
-Creating a ne branch is quick
+Creating a new branch is quick by dev
