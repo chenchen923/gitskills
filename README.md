@@ -1,2 +1,3 @@
 # gitskills
-Creating a ne branch is quick by cc
+Creating a new branch is quick by dev
+
