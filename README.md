@@ -1,2 +1,3 @@
 # gitskills
-Creating a new branch is quick by dev again
+Creating a new branch is quick by dev again today
+
